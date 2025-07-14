@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://e1.pxfuel.com/desktop-wallpaper/505/100/desktop-wallpaper-cool-youtube-banner-backgrounds-posted-by-ethan-simpson-banner-for-youtube-thumbnail.jpg" width="100%" alt="Banner" style="border-radius:10px;" />
+  <img src="https://github.com/TanvirHassanSayem.png" width="220" style="border-radius:50%; border: 5px solid #00ADB5; box-shadow:0 0 16px #00ADB5,0 0 8px #393E46;" alt="Tanvir Hasan Sayem - Profile Photo" />
 </p>
+
+
 
 ---
 
