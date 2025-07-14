@@ -1,89 +1,92 @@
-<h1 align="center">Hi there 👋, I'm Tanvir Hasan Sayem</h1>
+<h1 align="center" style="font-size:2.5rem;font-weight:bold">Hi there, I'm <span style="color:#00ADB5">Tanvir Hasan Sayem</span>! 👋</h1>
+
 <p align="center">
-  <img src="https://github.com/TanvirHassanSayem.png" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/TanvirHassanSayem.png" width="150" style="border-radius:50%; border: 3px solid #00ADB5; padding: 3px;" />
 </p>
 
-<p align="center">
-  🚀 Full Stack Web Developer | 🎓 CSE Student at MEC, DU Affiliated | 🌍 Dhaka, Bangladesh<br />
-  Passionate about crafting clean code, building awesome UIs, and solving real-world problems.
-</p>
-
----
-
-### 💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirHassanSayem&show_icons=true&theme=github_dark&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirHassanSayem&layout=compact&theme=github_dark" height="165"/>
+<p align="center" style="font-size:1.2rem;">
+  🚀 Full Stack Developer &bull; 🎓 CSE at MEC (DU Affiliated) &bull; 🌍 Based in Dhaka, Bangladesh
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<h2 style="font-size:1.5rem;">💻 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanvirHassanSayem&theme=onedark&margin-w=10&row=1"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Streaks
+<h2 style="font-size:1.5rem;">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanvirHassanSayem&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirHassanSayem&show_icons=true&theme=react&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirHassanSayem&layout=compact&theme=react&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🔥 Visitor Count
+<h2 style="font-size:1.5rem;">🔥 GitHub Streak</h2>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TanvirHassanSayem&color=blue)
-
----
-
-### 📂 Pinned Projects
-
-- 🔖 [project-based-learning](https://github.com/TanvirHassanSayem/project-based-learning)
-- 💻 [Python-Work](https://github.com/TanvirHassanSayem/Python-Work)
-- 🎨 [My-Web-Site1](https://github.com/TanvirHassanSayem/My-Web-Site1)
-- 🌸 [Beautiful_flowers](https://github.com/TanvirHassanSayem/Beautiful_flowers)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TanvirHassanSayem&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
+</p>
 
 ---
 
-### 🌐 Let's Connect
+<h2 style="font-size:1.5rem;">📍 Visitor Count</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvir%20Hasan%20Sayem-blue?logo=linkedin)](https://www.linkedin.com/in/tanvir-hasan-sayem-a33a39204/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tanvirhasan.sayem.1865)
-[![Email](https://img.shields.io/badge/Gmail-tanvirsayem431@gmail.com-red?logo=gmail&logoColor=white)](mailto:tanvirsayem431@gmail.com)
-
----
-
-### ✨ Fun Extras
-
-> _"I am currently working to learn full stack web development. I hope in the future I will become successful."_ 🌱
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TanvirHassanSayem&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Visitor Count"/>
+</p>
 
 ---
 
-### 🐍 Latest Snake Game Contribution Graph
+<h2 style="font-size:1.5rem;">📌 Pinned Projects</h2>
 
-![Snake animation](https://github.com/TanvirHassanSayem/TanvirHassanSayem/blob/output/github-contribution-grid-snake.svg)
+<ul>
+  <li>📘 <a href="https://github.com/TanvirHassanSayem/project-based-learning">Project Based Learning</a></li>
+  <li>🐍 <a href="https://github.com/TanvirHassanSayem/Python-Work">Python Work</a></li>
+  <li>🌐 <a href="https://github.com/TanvirHassanSayem/My-Web-Site1">My Web Site 1</a></li>
+  <li>🎨 <a href="https://github.com/TanvirHassanSayem/Beautiful_flowers">Beautiful Flowers</a></li>
+</ul>
 
 ---
 
-### 😄 Thanks for visiting!
+<h2 style="font-size:1.5rem;">🌐 Let's Connect</h2>
 
+<p>
+  <a href="mailto:tanvirsayem431@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanvir-hasan-sayem-a33a39204/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/tanvirhasan.sayem.1865"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 style="font-size:1.5rem;">🐍 Contribution Snake Graph</h2>
+
+<p align="center">
+  <img src="https://github.com/TanvirHassanSayem/TanvirHassanSayem/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h2 style="font-size:1.5rem;">✨ Quote</h2>
+
+> "I am currently working to learn full stack web development. I hope in the future I will become successful." 
+
+---
+
+<p align="center" style="font-size:1.1rem;">
+  Thanks for visiting my profile 🙌
+</p>
