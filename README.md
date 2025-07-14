@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/VtG3ywr.gif" width="100%" alt="Banner" style="border-radius:10px;" />
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/505/100/desktop-wallpaper-cool-youtube-banner-backgrounds-posted-by-ethan-simpson-banner-for-youtube-thumbnail.jpg" width="100%" alt="Banner" style="border-radius:10px;" />
 </p>
 
 ---
